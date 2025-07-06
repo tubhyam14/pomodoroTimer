@@ -3,7 +3,7 @@
 A simple and clean Pomodoro Timer built using HTML, CSS, and JavaScript. 
 
 ## 🌐 Live Preview
-🔗 [View Live Site](https://tubhyam14.github.io/PomodoroTimer/) 
+🔗 [View Live Site](https://tubhyam14.github.io/pomodoroTimer/) 
 
 
 ## 🔧 Features
