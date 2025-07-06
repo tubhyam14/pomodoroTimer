@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+#head {
+    font-size: 2rem;
+    margin: 0;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+#timer {
+    font-size: 2.5rem;
+    margin: 20px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+#start,
+#stop,
+#reset {
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 10px 10px;
+    margin: 7px;
+    border-radius: 10px;
+    border: none;
+    transition: opacity .3s ease-in-out;
+}
+
+#start:hover {
+    opacity: .8;
+    
+}
+
+#stop:hover {
+    opacity: .8;
+
+}
+
+#reset:hover {
+    opacity: .8;
+
+}
+
+#start {
+    background-color: greenyellow;
+
+}
+
+#stop {
+    background-color: orangered;
+
+}
+
+
+#reset {
+    background-color: lightgray;
+
+}
